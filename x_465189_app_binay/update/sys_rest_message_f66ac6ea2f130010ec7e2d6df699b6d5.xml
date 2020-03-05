@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message">
+    <sys_rest_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>oauth2</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <description/>
+        <name>app_binayak_REST1</name>
+        <oauth2_profile display_value="SNOW_POC_OAUTH default_profile">7fdf9be52f978010ec7e2d6df699b674</oauth2_profile>
+        <protocol_name/>
+        <rest_endpoint>http://predev.msdev-cluster.us-south.containers.appdomain.cloud/predev-selfheal/api/services/templatemining/details</rest_endpoint>
+        <sys_class_name>sys_rest_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-05 04:53:22</sys_created_on>
+        <sys_id>f66ac6ea2f130010ec7e2d6df699b6d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app_binayak_REST1</sys_name>
+        <sys_package display_value="app_binayak_1" source="x_465189_app_binay">978d39622f130010ec7e2d6df699b65b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app_binayak_1">978d39622f130010ec7e2d6df699b65b</sys_scope>
+        <sys_update_name>sys_rest_message_f66ac6ea2f130010ec7e2d6df699b6d5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-05 04:53:22</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message>
+</record_update>
